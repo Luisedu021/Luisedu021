@@ -42,5 +42,5 @@ While I love aesthetics, I became curious about how things work "under the hood.
 ### 🐍 Contribution Flow
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
 </div>
