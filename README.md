@@ -1,46 +1,34 @@
 <div align="center">
 
-#  Hi! I'm Luis Eduardo 
+# Hi, I'm Luis Eduardo 👋
 
-### **Computer Science Student** | **Full-Stack Developer** from Brazil 🇧🇷
+**Full-Stack Developer** · React · TypeScript · Python/FastAPI
+Computer Science student at UFMS · Brazil 🇧🇷 · Open to [internship / junior] opportunities
+
+<a href="https://www.linkedin.com/in/luisedulopes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+# About me
+
+- 🎨 Started as a **UI/UX Designer** at a Junior Enterprise, where I [o que você fez] for the **COP-15** conference — [resultado: alcance, público, entregas].
+- 💻 Today I build complete products: **React + TypeScript** on the frontend, **Python + FastAPI** on the backend.
+- 🔗 My edge: I design *and* ship — interfaces that are both usable and well-engineered.
+- 🌱 Currently learning: [ex.: machine learning with PyTorch].
+
+## Tech stack
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind
+**Backend:** Python, FastAPI, Java
+**Tools & design:** Git, GitHub, VS Code, Figma
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,git,github,vscode,figma,java" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,fastapi,java,git,github,vscode,figma" />
 </p>
 
----
+## 🐍 Contribution flow
 
-<div align="left" style="max-width: 800px; margin: 0 auto;">
-
-###  **About Me**
-
-My passion for technology started in the world of design. While pursuing my degree, I had the privilege of working as a **UI/UX Designer** within a **Junior Enterprise**, where I contributed to a major project for the **COP-15** conference. My focus was on making complex information accessible and intuitive for a global audience.
-
-While I love aesthetics, I became curious about how things work "under the hood." This curiosity drove me deeper into my **Computer Science** studies. Today, I bridge the gap between design and code, **venturing into the full stack** by mastering Frontend technologies and diving deep into Backend architecture.
-
-</div>
-
----
-
-### 🌐 **Connect with me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisedulopes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_DO_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </p>
-
-</div>
-
----
-
-### 🐍 Contribution Flow
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake.svg?v=2" alt="Snake animation" />
-</div>
