@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Hi! I'm Luis Eduardo 👋
+#  Hi! I'm Luis Eduardo 
 
 ### **Computer Science Student** | **Full-Stack Developer** from Brazil 🇧🇷
 
@@ -14,7 +14,7 @@
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
 
-### 🚀 **About Me**
+###  **About Me**
 
 My passion for technology started in the world of design. While pursuing my degree, I had the privilege of working as a **UI/UX Designer** within a **Junior Enterprise**, where I contributed to a major project for the **COP-15** conference. My focus was on making complex information accessible and intuitive for a global audience.
 
