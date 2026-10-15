@@ -3,7 +3,7 @@
 # Hi, I'm Luis Eduardo 👋
 
 **Full-Stack Developer** · React · TypeScript · Python/FastAPI
-Computer Science student at UFMS · Brazil 🇧🇷 · Open to [internship / junior] opportunities
+Computer Science student at UFMS · Brazil 🇧🇷 · Open to junior opportunities
 
 <a href="https://www.linkedin.com/in/luisedulopes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
