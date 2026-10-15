@@ -29,6 +29,6 @@ Computer Science student at UFMS · Brazil 🇧🇷 · Open to junior opportunit
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Luisedu021/Luisedu021/output/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" />
+    <img src=".github/workflows/snake.yml" alt="Snake eating my contribution graph" />
   </picture>
 </p>
